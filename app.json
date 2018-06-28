@@ -18,7 +18,11 @@
         "TIMEZONE": {
             "description": "Get timezone from https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List | USE 3rd column!",
             "value": "UTC"
-        }
+        },
+        "SALIENS_USER_AGENT": {
+			"description": "Set to 0 or 1 | 1 = True 0 = False | setting to true will use a user-agent pertaining to the cheat, instead of a generic browser user-agent."
+			"value": "1"
+		}
     },
     "formation": {
         "web": {
