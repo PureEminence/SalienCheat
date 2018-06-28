@@ -20,9 +20,9 @@
             "value": "UTC"
         },
         "SALIENS_USER_AGENT": {
-			"description": "Set to 0 or 1 | 1 = True 0 = False | setting to true will use a user-agent pertaining to the cheat, instead of a generic browser user-agent."
-			"value": "1"
-		}
+	    "description": "Set to 0 or 1 | 1 = True 0 = False | setting to true will use a user-agent pertaining to the cheat, instead of a generic browser user-agent."
+	    "value": "1"
+	}
     },
     "formation": {
         "web": {
