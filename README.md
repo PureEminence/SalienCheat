@@ -10,7 +10,7 @@
 
 ### Windows
 
-1. [Download this script](https://github.com/SteamDatabase/SalienCheat/archive/master.zip)
+1. [Download this script](https://github.com/mystith/SalienCheat/archive/master.zip)
 2. Extract it into a new folder
 3. Click `cheat.bat` and follow instructions
 
@@ -35,7 +35,7 @@ php cheat.php token2
 
 ### Windows
 
-1. [Download this script](https://github.com/SteamDatabase/SalienCheat/archive/master.zip)
+1. [Download this script](https://github.com/mystith/SalienCheat/archive/master.zip)
 2. Extract it into a new folder
 3. Click `python-cheat.bat` and follow instructions
 
