@@ -1,5 +1,7 @@
-# How to use this
+## What's the difference?
+With this fork, you shouldn't have any issues with getting suspended on Heroku, since it uses it's own User-Agent and not a false browser User-Agent. This script operates identically to the xPaw script, and only has the User-Agent change.
 
+# How to use this
 ## First steps
 
 1. Join https://steamcommunity.com/groups/SteamDB (needed to represent captures)
