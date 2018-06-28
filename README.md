@@ -93,7 +93,7 @@ Enter your Heroku credentials and then enter the following stuff below:
 ```bash
 git clone https://git.heroku.com/[APP_NAME].git -o heroku
 cd [APP_NAME]
-git remote add upstream https://github.com/SteamDatabase/SalienCheat.git
+git remote add upstream https://github.com/mystith/SalienCheat.git
 ```
 Then enter the following (below stuff required for all updates):
 ```bash
