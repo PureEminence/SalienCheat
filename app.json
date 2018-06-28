@@ -1,7 +1,7 @@
 {
     "name": "SalienCheat",
     "description": "Cheating Salien minigame, the proper way",
-    "repository": "https://github.com/SteamDatabase/SalienCheat",
+    "repository": "https://github.com/mystith/SalienCheat",
     "env": {
         "SALIENS_TOKEN": {
             "description": "Get token from https://steamcommunity.com/saliengame/gettoken and place below | https://i.imgur.com/T3gi8DG.png <- help on finding the token!",
